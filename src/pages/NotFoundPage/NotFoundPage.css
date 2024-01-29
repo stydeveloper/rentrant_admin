@@ -1,0 +1,19 @@
+.utility-page-wrap {
+
+    padding: 0.2rem  0 0 0 ;
+    width: 100vw;
+    height: 100%;
+    background-color: rgba(245, 222, 185, 0);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: justify;
+  }
+
+  .heading-4 {
+    color: var(--royal-blue);
+    /* margin-top: 60px; */
+    font-size: 70px;
+    font-weight: 500;
+  }

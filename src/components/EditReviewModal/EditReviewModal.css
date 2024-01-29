@@ -1,0 +1,11 @@
+.custom-rating .MuiRating-iconEmpty {
+    color: #cccccc; /* Change the default star fill color to gray */
+  }
+  
+  .custom-rating .MuiRating-iconFilled {
+    color: #386AE1; /* Change the selected star color to blue */
+  }
+
+  .custom-rating {
+    font-size: 32px !important; /* Adjust the font size to change the size of the stars */
+  }
